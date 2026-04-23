@@ -1,1 +1,2 @@
-Lab Activites and TAsks Arranged For Grading 
+SEN 182 ELECTIVE LAB REPOSITORY FOR COMNTENT FROM THE SEMESTER  
+       Lab Activites and TAsks Arranged For Grading 
