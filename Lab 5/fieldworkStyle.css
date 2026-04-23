@@ -1,0 +1,43 @@
+.navbar{
+   display: flex;
+   justify-content: space-between;
+   margin-right:114px;
+   margin-left: 114px;
+   align-items: center;
+}
+.menu-links{
+   display: flex;
+   gap: 40px;
+   list-style: none;
+   padding: 0px  ;
+}
+.Brand-name{
+   font-size: 24px;
+   line-height: 36px;
+   font-weight:700;
+   line-height: 36px
+}
+
+
+.sign-up{
+   background-color: #FF5733;
+   height: 44px;
+   border-radius: 6px;
+   opacity: 100%;
+   border:6px solid ;
+   width: 108.46875px;
+   color: white;
+   border: 10px solid;
+
+}
+.button-section a{
+   border-radius: 20%;
+   text-decoration: none;
+
+}
+
+.button-section{
+   color: inherit;
+   text-decoration: none;
+}
+   
