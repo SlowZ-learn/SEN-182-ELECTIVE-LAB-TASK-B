@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Modal</title>
+</head>
+
+<body>
+    <header class="header">
+        <p>Modal Pop-Up</p>
+        <small>
+            A modern modal component with overlay, animations, and form handling
+        </small>
+
+        <button class="open-modal-btn">Open Modal</button>
+    </header>
+
+    <!-- CSS CONCEPTS CARD -->
+    <div class="css-concepts-card">
+        <h2>Key CSS Concepts</h2>
+        <ul>
+            <li><span>Fixed Positioning</span> - Modal overlay covers entire viewport</li>
+            <li><span>Z-index</span> - Layering modal above other content</li>
+            <li><span>Backdrop Blur</span> - Visual depth with backdrop-blur</li>
+            <li><span>Flexbox Centering</span> - Centering modal content</li>
+            <li><span>Transitions</span> - Smooth hover and state changes</li>
+            <li><span>Focus States</span> - Accessibility with focus rings</li>
+        </ul>
+    </div>
+    <!-- Modal Section -->
+    <div class="modal-form hidden">
+        <header>
+            <h2>Create New Project</h2>
+            <small>Enter project details to get started</small>
+        </header>
+
+        <form>
+            <label>Project Name</label>
+            <input type="text" placeholder="My Awesome Project">
+
+            <label>Description</label>
+            <textarea placeholder="Describe your project.."></textarea>
+
+            <label>Category</label>
+            <input type="text">
+        </form>
+
+        <div class="button-div">
+            <button class="cancel-btn">Cancel</button>
+            <button class="create-btn">Create Project</button>
+        </div>
+
+    </div>
+</body>
+
+
+<script src="modal.js" defer></script>
+
+</html>

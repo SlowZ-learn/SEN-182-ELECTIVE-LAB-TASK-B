@@ -1,0 +1,175 @@
+body{
+    background-color:#020618 ;
+    margin: 50px 213px;
+    align-items: center;
+    color: #fff;
+}
+
+
+header{
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+.header p {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 8px;
+    font-weight: bold;
+
+}
+.header small{
+    font-size: 16px;
+    color: #99a1af;
+
+}
+.header button{
+    background-color: #4F39F6;
+    color: #fff;
+    margin-top: 32px;
+    margin-bottom: 48px;
+    height: 48px;
+    width: 137.8px;
+    border-radius: 10px;
+    border: inherit;
+
+}
+
+.header button:hover{
+    opacity: 1;
+    background-color: #140488;
+    border: inherit;
+    transition-duration: 0.35ms ease-in;
+}
+
+.css-concepts-card{
+    background-color: #0f172b;
+    border-radius: 10px;
+    max-width :896px;
+    max-height: 254px;
+    padding: 25px 25px;
+    gap: 16px;
+    border: #140488;
+}
+
+.css-concepts-card h2{
+color:#fff;
+font-size: 18px;
+font-weight: semi-bold;
+line-height: 28px;
+font-family: 'Inter', sans-serif;
+}
+.css-concepts-card ul{
+color:#fff;
+font-size: 14px;
+font-weight: regular;
+line-height: 20px;
+font-family: 'Inter', sans-serif;
+display: flex;
+flex-direction: column;
+gap: 8px;
+}
+
+.css-concepts-card span{
+    color: #768cff !important;
+}
+.css-concepts-card ul {
+    margin-bottom: 5px;
+}
+
+
+/* Modal Section */
+.modal-form {
+background-color: #1D293D;
+color:#fff;
+width:100%;
+height: 100%;
+max-width: 448px;
+max-height: 498px;
+padding:25px;
+box-sizing: border-box;
+border-radius: 16px;
+position:fixed;
+top:50%;
+left:50%;
+transform:translate(-50%, -50%);
+z-index: 100%;
+}
+.modal-form header{
+display: flex;
+flex-direction: column;
+gap: 2px;
+margin-bottom: 24px;
+}
+.modal-form h2{
+padding: 0px;
+margin: 0px;
+
+}
+
+/* The text inputs */
+.modal-form input{
+background-color: #0F172B;
+width: 100%;
+max-width:398px ;
+height: 35px;
+border-radius: 10px;
+color: #fff / 50px;
+border: 1px solid #0F172B;
+text-emphasis-color: green;
+}
+
+.modal-form textarea {
+background-color: #0F172B;
+width: 100%;
+max-width:398px ;
+height: 90px;
+border-radius: 10px;
+color: #fff / 50px;
+border: 1px solid #0F172B;
+}
+.modal-form small{
+color: #99A1AF;
+font-size: 14px;
+font-weight: regular;
+line-height: 20px;
+}
+
+.modal-form form{
+display: flex;
+flex-direction: column;
+gap: 16px;
+}
+
+
+
+.button-div{
+display: flex;
+gap: 16px;
+margin-top: 24px;
+align-items: center;
+justify-content: center;
+}
+
+/* styling buttons */
+.create-btn, .cancel-btn{
+width: 192px;
+height: 42px;
+border-radius: 10px;
+
+}
+.create-btn{
+background-color: #4F39F6;
+color:#fff;
+border: none;
+}
+.cancel-btn{
+background-color: transparent;
+color:#fff;
+border: 1px solid #314158;
+}
+
+/* Toggling Open and Close of Modal Class*/
+.hidden{
+display:none !important;
+}
