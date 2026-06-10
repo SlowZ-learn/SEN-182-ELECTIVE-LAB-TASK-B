@@ -29,7 +29,7 @@ Ongoing Learning project as part of academic course work.
 **Name :** Ohasi-Ekeocha Nnamdi Favour  
 **Institution :** Veritas University  
 **Program :** Software Enginnering  
-**Github :**  
+**Github :**  https://github.com/SlowZ-learn
 **E-mail :**  nnamdinumber1@gmail.com
   
 
