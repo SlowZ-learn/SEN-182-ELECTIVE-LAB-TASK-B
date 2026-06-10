@@ -1,5 +1,8 @@
 ## SEN 182 ELECTIVE LAB REPOSITORY FOR THE SEMESTER  
-*For this semester we are learing HTML, CSS and Git/GitHub*<br>
+#📘 Course Repository  
+**Course Code** SEN 182 LAB  
+
+
 *Lab Activites and Tasks Arranged either in seperate or the same files for simplicity*   
 
 
