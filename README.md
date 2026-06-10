@@ -1,6 +1,6 @@
 ## SEN 182 ELECTIVE LAB REPOSITORY FOR THE SEMESTER  
 
-## 📘Course Repository  
+##  📘Course Repository  
 **Course Code:** SEN182 LAB  
 
 ## 📌About This Repository  
@@ -26,11 +26,11 @@ It demostrates my learning progress and use of Github for version control.
 Ongoing Learning project as part of academic course work.  
 
 ## 👨‍💻Author 
-**Name:** Ohasi-Ekeocha Nnamdi Favour  
-**Institution:** Veritas University  
-**Program:** Software ENginnering  
-**Github:**  
-**E-mail:**  nnamdinumber1@gmail.com
+**Name :** Ohasi-Ekeocha Nnamdi Favour  
+**Institution :** Veritas University  
+**Program :** Software Enginnering  
+**Github :**  
+**E-mail :**  nnamdinumber1@gmail.com
   
 
 
